@@ -7,6 +7,3 @@ Feature: Test automation web
     And user input password "secret_sauce"
     And user click login button
     And user will see icon chart in homepage
-
-
-
